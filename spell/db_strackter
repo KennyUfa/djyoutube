@@ -1,0 +1,7 @@
+KLASS - TEXT
+levl - INT
+TITLE _ VARCHAR
+photo - Image
+is_publeshed
+create_at - DateTime
+apdated_at
